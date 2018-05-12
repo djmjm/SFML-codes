@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/pixel.cpp.o ./Debug/KEYBOARD.cpp.o ./Debug/mainMenu.cpp.o
