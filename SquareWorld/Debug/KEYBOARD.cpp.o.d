@@ -1,3 +1,0 @@
-Debug/KEYBOARD.cpp.o: KEYBOARD.cpp KEYBOARD.h
-
-KEYBOARD.h:
